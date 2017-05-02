@@ -1,0 +1,21 @@
+html{
+    height: 100%;
+}
+
+body{
+    background: black;
+    height: 100%;
+}
+
+p{
+    text-align: center;
+    color: white;
+    font-size: 4em;
+}
+
+canvas{
+    display: block;
+    text-align: center;
+    margin: auto;
+    border: 20px solid white;
+}
